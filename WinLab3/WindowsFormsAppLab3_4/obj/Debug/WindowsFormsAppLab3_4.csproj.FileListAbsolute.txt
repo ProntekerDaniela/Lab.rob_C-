@@ -1,0 +1,10 @@
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\bin\Debug\WindowsFormsAppLab3_4.exe.config
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\bin\Debug\WindowsFormsAppLab3_4.exe
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\bin\Debug\WindowsFormsAppLab3_4.pdb
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\obj\Debug\WindowsFormsAppLab3_4.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\obj\Debug\WindowsFormsAppLab3_4.Form1.resources
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\obj\Debug\WindowsFormsAppLab3_4.Properties.Resources.resources
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\obj\Debug\WindowsFormsAppLab3_4.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\obj\Debug\WindowsFormsAppLab3_4.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\obj\Debug\WindowsFormsAppLab3_4.exe
+C:\Users\админ\Desktop\Дистанційка\WinForms\Lab3\WindowsFormsAppLab3_4\obj\Debug\WindowsFormsAppLab3_4.pdb
