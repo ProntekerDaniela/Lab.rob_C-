@@ -1,0 +1,10 @@
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\bin\Debug\WindowsFormsAppMasive.exe.config
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\bin\Debug\WindowsFormsAppMasive.exe
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\bin\Debug\WindowsFormsAppMasive.pdb
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\obj\Debug\WindowsFormsAppMasive.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\obj\Debug\WindowsFormsAppMasive.Form1.resources
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\obj\Debug\WindowsFormsAppMasive.Properties.Resources.resources
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\obj\Debug\WindowsFormsAppMasive.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\obj\Debug\WindowsFormsAppMasive.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\obj\Debug\WindowsFormsAppMasive.exe
+C:\Users\админ\Desktop\Дистанційка\МКР програмування\WindowsFormsAppMasive\obj\Debug\WindowsFormsAppMasive.pdb
