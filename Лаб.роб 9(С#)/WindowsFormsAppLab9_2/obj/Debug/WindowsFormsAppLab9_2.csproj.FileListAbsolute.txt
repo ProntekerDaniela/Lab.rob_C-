@@ -1,0 +1,10 @@
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\bin\Debug\WindowsFormsAppLab9_2.exe.config
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\bin\Debug\WindowsFormsAppLab9_2.exe
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\bin\Debug\WindowsFormsAppLab9_2.pdb
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\obj\Debug\WindowsFormsAppLab9_2.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\obj\Debug\WindowsFormsAppLab9_2.Form1.resources
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\obj\Debug\WindowsFormsAppLab9_2.Properties.Resources.resources
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\obj\Debug\WindowsFormsAppLab9_2.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\obj\Debug\WindowsFormsAppLab9_2.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\obj\Debug\WindowsFormsAppLab9_2.exe
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 9(С#)\WindowsFormsAppLab9_2\obj\Debug\WindowsFormsAppLab9_2.pdb
