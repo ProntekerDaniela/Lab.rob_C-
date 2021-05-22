@@ -1,0 +1,10 @@
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\bin\Debug\WindowsFormsLab15.exe.config
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\bin\Debug\WindowsFormsLab15.exe
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\bin\Debug\WindowsFormsLab15.pdb
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\obj\Debug\WindowsFormsLab15.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\obj\Debug\WindowsFormsLab15.Form1.resources
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\obj\Debug\WindowsFormsLab15.Properties.Resources.resources
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\obj\Debug\WindowsFormsLab15.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\obj\Debug\WindowsFormsLab15.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\obj\Debug\WindowsFormsLab15.exe
+C:\Users\админ\Desktop\Дистанційка\Лаб.роб 15(C#)\WindowsFormsLab15\obj\Debug\WindowsFormsLab15.pdb
