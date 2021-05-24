@@ -1,0 +1,56 @@
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.exe
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.deps.json
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.runtimeconfig.json
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.runtimeconfig.dev.json
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.dll
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\bin\Debug\net5.0-windows\ref\DBSimulation.dll
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.pdb
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.Form1.resources
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.AssemblyInfo.cs
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.dll
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\ref\DBSimulation.dll
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.pdb
+C:\Users\админ\Desktop\cs_for_ca1-main\Form\DBSimulation\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.genruntimeconfig.cache
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.exe
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.deps.json
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.runtimeconfig.json
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.runtimeconfig.dev.json
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.dll
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\bin\Debug\net5.0-windows\ref\DBSimulation.dll
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.pdb
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.Form1.resources
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.AssemblyInfo.cs
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.dll
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\ref\DBSimulation.dll
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.pdb
+C:\Users\админ\Desktop\Лаб. робота №13(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.genruntimeconfig.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.exe
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.deps.json
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.runtimeconfig.json
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.runtimeconfig.dev.json
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.dll
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\bin\Debug\net5.0-windows\ref\DBSimulation.dll
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\bin\Debug\net5.0-windows\DBSimulation.pdb
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.Form1.resources
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.AssemblyInfo.cs
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.dll
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\ref\DBSimulation.dll
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.pdb
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.genruntimeconfig.cache
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.Form2.resources
+C:\Users\админ\Desktop\Дистанційка\Лаб. робота №14(С#)\DBSimulation\obj\Debug\net5.0-windows\DBSimulation.Form3.resources
